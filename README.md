@@ -1,2 +1,2 @@
 # codevisi.github.io
-life footnotes and codes
+Life footnotes and codes
